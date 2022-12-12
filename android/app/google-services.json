@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "825137302078",
+    "project_id": "passwordless-auth-e89fd",
+    "storage_bucket": "passwordless-auth-e89fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825137302078:android:7e73d3b6311015b706df6f",
+        "android_client_info": {
+          "package_name": "com.example.passwordless_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825137302078-rf4b9aapetlf2r2ud9jim7glqdq96qa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.passwordless_auth",
+            "certificate_hash": "cd3e5712ed4c8a037cec8999f1a743e9793980cf"
+          }
+        },
+        {
+          "client_id": "825137302078-hmj72m9upggnbshafehi0h2l0h9cmnv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvARE_EhWVQuarqPX3VtPiLmuKRFSQ1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825137302078-hmj72m9upggnbshafehi0h2l0h9cmnv3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825137302078-fk5kvf5ugmgjlt5n2q9d0kng2tpqtu3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.passwordlessAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

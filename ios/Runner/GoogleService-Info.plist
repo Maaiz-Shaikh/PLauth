@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>825137302078-fk5kvf5ugmgjlt5n2q9d0kng2tpqtu3v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.825137302078-fk5kvf5ugmgjlt5n2q9d0kng2tpqtu3v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBpcNL4Sq8aL_0ds9AaNnG0i3Qf6V3M784</string>
+	<key>GCM_SENDER_ID</key>
+	<string>825137302078</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.passwordlessAuth</string>
+	<key>PROJECT_ID</key>
+	<string>passwordless-auth-e89fd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>passwordless-auth-e89fd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:825137302078:ios:bf855cd20ac368db06df6f</string>
+</dict>
+</plist>
