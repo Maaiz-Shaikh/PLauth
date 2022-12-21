@@ -64,3 +64,7 @@ PLAuth is a mobile application which will provide passwordless authentication se
 - **Programming Language:** Dart
 - **Backend:** Firebase
 - **IDE:** Visual Studio Code
+
+## Authors
+- [@Maaiz Shaikh](https://github.com/Maaiz-Shaikh)
+- [@Ravi Patel](https://github.com/Ravipatel1309)
